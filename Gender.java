@@ -1,4 +1,4 @@
-
+package roya.taskstwo;
  public enum Gender {
      MALE ('M'), FEMALE('F');
      private char shortened;

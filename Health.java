@@ -1,3 +1,5 @@
+package roya.taskstwo;
+
 public class Health {
     private  int health;
     public Health(int  health){
